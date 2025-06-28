@@ -4,9 +4,6 @@
 @Time     : 2025/6/29 15:56
 @Author   : F
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/4/26 15:56        1.0             None
 """
 
 from PyQt5.QtGui import QMouseEvent, QPainter, QPen, QCursor, QColor

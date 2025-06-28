@@ -4,9 +4,6 @@
 @Time     : 2025/6/30 14:09
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/5 14:09        1.0             None
 """
 
 import sys

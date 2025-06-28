@@ -4,9 +4,6 @@
 @Time     : 2025/6/27 21:40
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/15 21:40        1.0             None
 """
 from PyQt5.QtCore import pyqtSignal, QRegExp
 from PyQt5.QtGui import QRegExpValidator

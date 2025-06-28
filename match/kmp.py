@@ -4,9 +4,6 @@
 @Time     : 2025/6/28 19:52
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/21 19:52        1.0             None
 """
 import time
 import threading

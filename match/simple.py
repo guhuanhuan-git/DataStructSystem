@@ -4,9 +4,6 @@
 @Time     : 2025/6/28 15:47
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/21 15:47        1.0             None
 """
 
 import time

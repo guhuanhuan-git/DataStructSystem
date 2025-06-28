@@ -2,11 +2,8 @@
 @File     : double_tree.py
 @Project  : DataStructureDemonstrationSystem
 @Time     : 2025/6/30 12:34
-@Author   : F
+@Author   : 
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/25 12:34        1.0             None
 """
 import math
 import sys
