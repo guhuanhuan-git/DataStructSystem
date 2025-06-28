@@ -4,9 +4,6 @@
 @Time     : 2025/6/29 21:49
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/19 21:49        1.0             None
 """
 import random
 from abc import abstractmethod

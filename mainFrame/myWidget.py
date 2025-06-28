@@ -7,9 +7,6 @@
 @Time     : 2025/6/27 12:57
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/9 12:57        1.0             None
 """
 
 from PyQt5.QtCore import pyqtSignal

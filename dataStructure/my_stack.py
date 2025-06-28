@@ -6,9 +6,6 @@
 @Time     : 2022/6/29 19:39
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/11 19:39        1.0             None
 """
 
 import random

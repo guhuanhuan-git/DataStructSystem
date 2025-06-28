@@ -4,9 +4,6 @@
 @Time     : 2025/6/27 16:15
 @Author   : Z
 @Software : PyCharm
-@Last Modify Time      @Version     @Description
---------------------       --------        -----------
-2022/3/5 16:15        1.0             None
 """
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QMainWindow, QWidget, QDockWidget, QTreeWidget, QTreeWidgetItem, QVBoxLayout
